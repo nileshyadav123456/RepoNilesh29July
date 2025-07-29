@@ -19,3 +19,8 @@ resource "azurerm_resource_group" "rgNew4" {
     name = "RgNilesh503"
     location = "Central India"
 }
+
+ resource "azurerm_resource_group" "rgNew6" {
+    name = "RgNilesh506"
+    location = "Central India"
+}
