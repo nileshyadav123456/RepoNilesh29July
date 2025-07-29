@@ -7,3 +7,8 @@ resource "azurerm_resource_group" "rgNew2" {
     name = "RgNilesh502"
     location = "Central India"
 }
+
+resource "azurerm_resource_group" "rgNew3" {
+    name = "RgNilesh503"
+    location = "Central India"
+}
